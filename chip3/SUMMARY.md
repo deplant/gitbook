@@ -2,17 +2,18 @@
 
 * [Overview](README.md)
 
-## Connect to tasks
+## Connecting to existing Feeds
 
-* [Example Contract](connect-to-tasks/example-contract.md)
-* [Feed Explorer](connect-to-tasks/feed-explorer.md)
-* [Creating Payer Account](connect-to-tasks/creating-payer-account.md)
+* [Connecting to existing Feeds](connecting-to-existing-feeds/connecting-to-existing-feeds.md)
+* [Feed Explorer](connecting-to-existing-feeds/feed-explorer.md)
+* [Example Contract](connecting-to-existing-feeds/example-contract.md)
+* [Creating Payer Account](connecting-to-existing-feeds/creating-payer-account.md)
 
-## Create new tasks
+## Build new Feeds
 
-* [Studio FAQ](create-new-tasks/studio-faq.md)
-* [Task Designer UI](create-new-tasks/task-designer-ui.md)
-* [Task Actions](create-new-tasks/task-actions.md)
+* [Studio FAQ](build-new-feeds/studio-faq.md)
+* [Task Designer UI](build-new-feeds/task-designer-ui.md)
+* [Task Actions](build-new-feeds/task-actions.md)
 
 ## Run Validator Node
 

@@ -39,6 +39,6 @@ Details is overview of different info about Task.
 
 **Validators List** contains info about **Validators** that took part in providing answer. They answer may differ if consensus is **Medianized**.
 
-{% content-ref url="../create-new-tasks/task-designer-ui.md" %}
-[task-designer-ui.md](../create-new-tasks/task-designer-ui.md)
+{% content-ref url="../build-new-feeds/task-designer-ui.md" %}
+[task-designer-ui.md](../build-new-feeds/task-designer-ui.md)
 {% endcontent-ref %}
