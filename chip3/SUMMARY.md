@@ -20,10 +20,14 @@
 * [How to become Validator](run-validator-node/how-to-become-validator.md)
 * [Node Requirements](run-validator-node/node-requirements.md)
 
-## Architecture
+## Whitepaper
 
-* [Protocol](architecture/protocol.md)
-* [Deposit](architecture/deposit.md)
-* [Auction](architecture/auction.md)
-* [Election Settings](architecture/election-settings.md)
-* [Consumer](architecture/consumer.md)
+* [Abstract](whitepaper/abstract.md)
+* [Free Market](whitepaper/free-market.md)
+* [Fishermen](whitepaper/fishermen.md)
+* [Architecture](whitepaper/architecture/README.md)
+  * [Protocol](whitepaper/architecture/protocol.md)
+  * [Deposit](whitepaper/architecture/deposit.md)
+  * [Auction](whitepaper/architecture/auction.md)
+  * [Election Settings](whitepaper/architecture/election-settings.md)
+  * [Consumer](whitepaper/architecture/consumer.md)
